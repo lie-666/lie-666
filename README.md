@@ -44,10 +44,4 @@
 
 ## 📫 联系我
 
-欢迎随时联系我 😋
-
-[![Static Badge](https://img.shields.io/badge/github-%40lie--666-181717)](https://github.com/lie-666)
-[![Static Badge](https://img.shields.io/badge/telegram-%40lie__666-26A5E4)](https://t.me/lie_666)
-[![Static Badge](https://img.shields.io/badge/discord-%40lie666-5865F2)](https://discord.gg/BQKw9dsW)
-[![Static Badge](https://img.shields.io/badge/邮箱-lie--666%40outlook.com-8A4182)](mailto:lie-666@outlook.com)
-[![Static Badge](https://img.shields.io/badge/个人博客-https%3A%2F%2Fblog.lie--666.work-blue)](https://blog.lie-666.work)
+# 联系个屁，别联系我。
